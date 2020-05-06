@@ -1,3 +1,4 @@
+//you can also take input of user choice
 //Take 10 integer inputs from user and store them in an array and print them on screen.
 #include<iostream>
 using namespace std;
